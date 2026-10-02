@@ -70,4 +70,4 @@ Use a modern browser with JavaScript and local storage enabled. The layout is re
 
 ## License
 
-No license has been specified yet. Add a `LICENSE` file before presenting the project as open source, and choose a license that matches how you want others to use it.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
