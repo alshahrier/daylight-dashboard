@@ -1,3 +1,6 @@
+## How to Use
+
+Getting started is super easy! Just download the `index.html` file, open it in your browser, and you're good to go. No installation or account needed! Your data stays saved in your browser and isn't sent to any server. Just remember not to share your backups or screenshots if they contain personal information. And if you're using a shared device, keep in mind that others might be able to access your data!
 # Daylight ☀️
 
 A lightweight, offline-first personal dashboard for organizing your day, building habits, taking notes, and tracking focus sessions.
